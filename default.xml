@@ -1,5 +1,5 @@
 <manifest>
-<remote name="github" fetch="https://github.com/connorHayler"/>
+<remote name="github" fetch="https://github.com/connorHayler" review="https://github.com/connorHayler"/>
 <default revision="refs/heads/main" remote="github" sync-j="4"/>
 <project name="example1" remote="github" path="example1"/>
 <project name="example2" remote="github" path="example2"/>
